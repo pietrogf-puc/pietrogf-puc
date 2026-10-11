@@ -34,26 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrogf-puc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogf-puc&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietrogf-puc/pietrogf-puc/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietrogf-puc/pietrogf-puc/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pietrogf-puc/pietrogf-puc/output/github-snake.svg"/>
-  </picture>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
